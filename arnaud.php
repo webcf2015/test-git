@@ -1,3 +1,3 @@
 <?php
 
-echo "petits curieux !";
+echo "Bonjour ";
